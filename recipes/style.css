@@ -1,0 +1,19 @@
+*{
+    background-color: beige;
+    padding: 8px;
+    margin:8px;
+    text-align: center;
+    font-family: cursive;
+}
+h1,h3{
+    border:2px solid red;
+    background-color: bisque;
+    margin:3px;
+    text-align: center;
+    
+}
+a{
+    color:brown;
+    font-weight: bold;
+
+}
